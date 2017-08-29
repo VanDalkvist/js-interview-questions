@@ -6,7 +6,7 @@ setTimeout(cb, 0);
 ```
 
 ```javascript
-var arr = ['2', '12', '3', '4', '5'];
+var arr = ['2', '12', '3', '4', '5', 'hello'];
 var parsed = arr.map(parseInt);
 console.log(parsed);
 ```
