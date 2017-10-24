@@ -14,9 +14,6 @@ console.log(parsed);
 ```javascript
 console.log(new Boolean(false))
 console.log(Boolean(false));
-```
-
-```javascript
 console.log(Boolean([]))
 console.log(Boolean({}));
 ```
