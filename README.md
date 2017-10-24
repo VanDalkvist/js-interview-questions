@@ -29,3 +29,7 @@ for (var i = 0; i < arr.length; i++) {
   }, 3000);
 }
 ```
+
+```
+How to create a listener for an element click in the list of elements.
+```
