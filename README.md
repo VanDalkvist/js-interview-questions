@@ -30,3 +30,9 @@ for (var i = 0; i < arr.length; i++) {
 ```
 How to create a listener for an element click in the list of elements?
 ```
+
+```
+if(a == 1 && a == 2 && a == 3) {
+    console.log('Hello World!');
+}
+```
